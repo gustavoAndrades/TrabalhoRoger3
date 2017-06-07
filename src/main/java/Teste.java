@@ -9,7 +9,9 @@
  * @author Gustavo Andrades
  */
 public class Teste {
-    dagsdkjashd;
-            asdahskdahsd;
-            asdahs;
+    public static void main (String args[]){
+    int teste;
+    teste = 10;
 }
+}
+
