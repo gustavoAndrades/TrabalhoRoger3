@@ -12,6 +12,7 @@ public class Teste {
     public static void main (String args[]){
     int teste;
     teste = 10;
+        System.out.println("Testando, Testando");
 }
 }
 
