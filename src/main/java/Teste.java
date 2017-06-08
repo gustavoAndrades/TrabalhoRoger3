@@ -13,6 +13,7 @@ public class Teste {
     int teste;
     teste = 10;
         System.out.println("Testando, Testando");
+        System.out.println("Mais um teste, e viva lá vida");
 }
 }
 
