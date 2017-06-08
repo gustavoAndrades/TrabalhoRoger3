@@ -56,22 +56,22 @@ public class Teste {
         switch (opcao) {
     case 1:
         int result = soma(num1,num2);
-        System.out.println("O resultado é: "+result);
+        System.out.println("O resultado soma: "+result);
         menu(num1, num2);
        break;//dsd
     case 2:
         result = subtracao(num1,num2);
-        System.out.println("O resultado é: "+result);
+        System.out.println("O resultado subtracao: "+result);
         menu(num1, num2);
        break;
     case 3:
         result = divisao(num1,num2);
-        System.out.println("O resultado é: "+result);
+        System.out.println("O resultado divisao: "+result);
         menu(num1, num2);
         break;
     case 4:
         result = multiplicacao(num1,num2);
-        System.out.println("O resultado é: "+result);
+        System.out.println("O resultado da multiplicacao: "+result);
         menu(num1, num2);
         break;
     case 5:
