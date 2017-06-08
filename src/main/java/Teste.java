@@ -44,9 +44,9 @@ public class Teste {
     System.out.println("/////////Escolha uma opção\\\\\\\\\\\\");
     System.out.println("1- Soma");  
     System.out.println("2- Subtracao");  
-    System.out.println("3- Multiplicacao");  
-    System.out.println("4- Divisao");  
-    System.out.println("0- Sair");  
+    System.out.println("3- Divisao");  
+    System.out.println("4- Multiplicacao");  
+    System.out.println("5- Sair");  
     System.out.println("Operação: ");  
     int opcao = in.nextInt();
         System.out.println("Digite o valor do primeiro Numero: ");
@@ -76,9 +76,5 @@ public class Teste {
         break;
     case 5:
          break;
-    case 6:
-        System.out.println("Digite uma opição valida.");
-        //default;
-    }
 }
 }
